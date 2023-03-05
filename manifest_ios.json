@@ -1,0 +1,82 @@
+{	"name": "lyrical-t",
+	"short_name": "lyrical-t",
+	"description": "20230304",
+	"icons": [
+		{
+		"src": "/lyrical-t/icon/192.png",
+		"sizes": "192x192",
+		"type": "image/png",
+		"purpose": "any"
+		},
+		{
+		"src": "/lyrical-t/icon/512.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
+	    },	
+	    {
+		"src": "/lyrical-t/icon/72.png",
+		"sizes": "72x72",
+		"type": "image/png",
+		"purpose": "any"
+	        },	
+		{
+		"src": "/lyrical-t/icon/120.png",
+		"sizes": "120x120",
+		"type": "image/png",
+		"purpose": "any"
+	        },	
+		{
+		"src": "/lyrical-t/icon/144.png",
+		"sizes": "144x144",
+		"type": "image/png",
+		"purpose": "any"
+	        },
+		{
+		"src": "/lyrical-t/icon/256.png",
+		"sizes": "256x256",
+		"type": "image/png",
+		"purpose": "any"
+	        },
+		{
+		"src": "/lyrical-t/icon/192.png",
+		"sizes": "192x192",
+		"type": "image/png",
+		"purpose": "maskable"
+		},
+		{
+		"src": "/lyrical-t/icon/512.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "maskable"
+	        },	
+	        {
+		"src": "/lyrical-t/icon/72.png",
+		"sizes": "72x72",
+		"type": "image/png",
+		"purpose": "maskable"
+	        },	
+		{
+		"src": "/lyrical-t/icon/120.png",
+		"sizes": "120x120",
+		"type": "image/png",
+		"purpose": "maskable"
+	        },	
+		{
+		"src": "/lyrical-t/icon/144.png",
+		"sizes": "144x144",
+		"type": "image/png",
+		"purpose": "maskable"
+	        },
+		{
+		"src": "/lyrical-t/icon/256.png",
+		"sizes": "256x256",
+		"type": "image/png",
+		"purpose": "maskable"
+	        }
+		],
+	"start_url": "/lyrical-t/index.html",
+	"display": "browser",
+	"theme_color": "#317EFB",
+ 	"orientation": "any",
+	"background_color": "#0000FF"}

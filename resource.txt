@@ -1,0 +1,3 @@
+https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
+
+https://teachablemachine.withgoogle.com/train/image
